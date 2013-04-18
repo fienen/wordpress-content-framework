@@ -7,6 +7,7 @@ WCFW 2.0 was generated for Wordpress 3.5.1. It may work with older or newer vers
 
 ## Installation
 To import this information into a WordPress site follow these steps:
+
 1. If you aren't running your version of Wordpress on localhost, you may want to do a find/replace on the WXR file for http://localhost and put in your domain.
 2. Log in to that site as an administrator.
 3. Go to Tools: Import in the WordPress admin panel.
