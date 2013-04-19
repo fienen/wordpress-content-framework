@@ -1,9 +1,9 @@
 # Wordpress Content Framework
 
-The WCFW is a Wordpress generated WXR (WordPress eXtended RSS) file generated with a complete set of sandbox data that you can use for theme, plugin, CSS, or other development that requires you to have a broad set of sample data to work from. This particular file contains information about a site's posts, pages, comments, categories, menus, and other content.
+The WPCF is a Wordpress generated WXR (WordPress eXtended RSS) file generated with a complete set of sandbox data that you can use for theme, plugin, CSS, or other development that requires you to have a broad set of sample data to work from. This particular file contains information about a site's posts, pages, comments, categories, menus, and other content.
 
 ## Compatibility
-WCFW 2.0 was generated for Wordpress 3.5.1. It may work with older or newer versions of Wordpress as well.
+WPCF 2.0 was generated for Wordpress 3.5.1. It may work with older or newer versions of Wordpress as well.
 
 ## Installation
 To import this information into a WordPress site follow these steps:
