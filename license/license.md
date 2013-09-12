@@ -1,4 +1,4 @@
-# (http://creativecommons.org/ Creative Commons)
+# [Creative Commons](http://creativecommons.org/ "Creative Commons")
 
   <div id="deed" class="green">
     <div id="deed-head">
