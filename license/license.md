@@ -18,24 +18,13 @@ RESULTING FROM ITS USE.
 
 #### License
 
-THE WORK (AS DEFINED BELOW) IS PROVIDED UNDER THE TERMS
-OF THIS CREATIVE COMMONS PUBLIC LICENSE ("CCPL" OR
-"LICENSE"). THE WORK IS PROTECTED BY COPYRIGHT AND/OR OTHER
-APPLICABLE LAW. ANY USE OF THE WORK OTHER THAN AS
-AUTHORIZED UNDER THIS LICENSE OR COPYRIGHT LAW IS
-PROHIBITED.
+>THE WORK (AS DEFINED BELOW) IS PROVIDED UNDER THE TERMS OF THIS CREATIVE COMMONS PUBLIC LICENSE ("CCPL" OR "LICENSE"). THE WORK IS PROTECTED BY COPYRIGHT AND/OR OTHER APPLICABLE LAW. ANY USE OF THE WORK OTHER THAN AS AUTHORIZED UNDER THIS LICENSE OR COPYRIGHT LAW IS PROHIBITED.
+>
+>BY EXERCISING ANY RIGHTS TO THE WORK PROVIDED HERE, YOU ACCEPT AND AGREE TO BE BOUND BY THE TERMS OF THIS LICENSE. TO THE EXTENT THIS LICENSE MAY BE CONSIDERED TO BE A CONTRACT, THE LICENSOR GRANTS YOU THE RIGHTS CONTAINED HERE IN CONSIDERATION OF YOUR ACCEPTANCE OF SUCH TERMS AND CONDITIONS.
 
-BY EXERCISING ANY RIGHTS TO THE WORK PROVIDED HERE, YOU
-ACCEPT AND AGREE TO BE BOUND BY THE TERMS OF THIS LICENSE.
-TO THE EXTENT THIS LICENSE MAY BE CONSIDERED TO BE A
-CONTRACT, THE LICENSOR GRANTS YOU THE RIGHTS CONTAINED HERE
-IN CONSIDERATION OF YOUR ACCEPTANCE OF SUCH TERMS AND
-CONDITIONS.
+##### 1. Definitions
 
-        <p><strong>1. Definitions</strong></p>
-
-        <ol type="a">
-          <li><strong>"Adaptation"</strong> means a work based upon
+*<strong>"Adaptation"</strong> means a work based upon
           the Work, or upon the Work and other pre-existing works,
           such as a translation, adaptation, derivative work,
           arrangement of music or other alterations of a literary
@@ -50,9 +39,8 @@ CONDITIONS.
           phonogram, the synchronization of the Work in
           timed-relation with a moving image ("synching") will be
           considered an Adaptation for the purpose of this
-          License.</li>
-
-          <li><strong>"Collection"</strong> means a collection of
+          License.
+*<strong>"Collection"</strong> means a collection of
           literary or artistic works, such as encyclopedias and
           anthologies, or performances, phonograms or broadcasts,
           or other works or subject matter other than works listed
@@ -65,9 +53,8 @@ CONDITIONS.
           assembled into a collective whole. A work that
           constitutes a Collection will not be considered an
           Adaptation (as defined below) for the purposes of this
-          License.</li>
-
-          <li><strong>"Creative Commons Compatible
+          License.
+*<strong>"Creative Commons Compatible
           License"</strong> means a license that is listed at
           http://creativecommons.org/compatiblelicenses that has
           been approved by Creative Commons as being essentially
@@ -78,23 +65,19 @@ CONDITIONS.
           relicensing of adaptations of works made available under
           that license under this License or a Creative Commons
           jurisdiction license with the same License Elements as
-          this License.</li>
-
-          <li><strong>"Distribute"</strong> means to make available
+          this License.
+*<strong>"Distribute"</strong> means to make available
           to the public the original and copies of the Work or
           Adaptation, as appropriate, through sale or other
-          transfer of ownership.</li>
-
-          <li><strong>"License Elements"</strong> means the
+          transfer of ownership.
+*<strong>"License Elements"</strong> means the
           following high-level license attributes as selected by
           Licensor and indicated in the title of this License:
-          Attribution, ShareAlike.</li>
-
-          <li><strong>"Licensor"</strong> means the individual,
+          Attribution, ShareAlike.
+*<strong>"Licensor"</strong> means the individual,
           individuals, entity or entities that offer(s) the Work
-          under the terms of this License.</li>
-
-          <li><strong>"Original Author"</strong> means, in the case
+          under the terms of this License.
+*<strong>"Original Author"</strong> means, in the case
           of a literary or artistic work, the individual,
           individuals, entity or entities who created the Work or
           if no individual or entity can be identified, the
@@ -106,9 +89,8 @@ CONDITIONS.
           phonogram the producer being the person or legal entity
           who first fixes the sounds of a performance or other
           sounds; and, (iii) in the case of broadcasts, the
-          organization that transmits the broadcast.</li>
-
-          <li><strong>"Work"</strong> means the literary and/or
+          organization that transmits the broadcast.
+*<strong>"Work"</strong> means the literary and/or
           artistic work offered under the terms of this License
           including without limitation any production in the
           literary, scientific and artistic domain, whatever may be
@@ -130,16 +112,14 @@ CONDITIONS.
           data to the extent it is protected as a copyrightable
           work; or a work performed by a variety or circus
           performer to the extent it is not otherwise considered a
-          literary or artistic work.</li>
-
-          <li><strong>"You"</strong> means an individual or entity
+          literary or artistic work.
+*<strong>"You"</strong> means an individual or entity
           exercising rights under this License who has not
           previously violated the terms of this License with
           respect to the Work, or who has received express
           permission from the Licensor to exercise rights under
-          this License despite a previous violation.</li>
-
-          <li><strong>"Publicly Perform"</strong> means to perform
+          this License despite a previous violation.
+*<strong>"Publicly Perform"</strong> means to perform
           public recitations of the Work and to communicate to the
           public those public recitations, by any means or process,
           including by wire or wireless means or public digital
@@ -150,24 +130,26 @@ CONDITIONS.
           process and the communication to the public of the
           performances of the Work, including by public digital
           performance; to broadcast and rebroadcast the Work by any
-          means including signs, sounds or images.</li>
-
-          <li><strong>"Reproduce"</strong> means to make copies of
+          means including signs, sounds or images.
+*<strong>"Reproduce"</strong> means to make copies of
           the Work by any means including without limitation by
           sound or visual recordings and the right of fixation and
           reproducing fixations of the Work, including storage of a
           protected performance or phonogram in digital form or
-          other electronic medium.</li>
-        </ol>
+          other electronic medium.
 
-        <p><strong>2. Fair Dealing Rights.</strong> Nothing in this
+##### 2. Fair Dealing Rights.
+
+Nothing in this
         License is intended to reduce, limit, or restrict any uses
         free from copyright or rights arising from limitations or
         exceptions that are provided for in connection with the
         copyright protection under copyright law or other
-        applicable laws.</p>
+        applicable laws.
 
-        <p><strong>3. License Grant.</strong> Subject to the terms
+##### 3. License Grant.
+
+Subject to the terms
         and conditions of this License, Licensor hereby grants You
         a worldwide, royalty-free, non-exclusive, perpetual (for
         the duration of the applicable copyright) license to
