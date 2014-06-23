@@ -13,7 +13,7 @@ To import this information into a WordPress site follow these steps:
 1. If you aren't running your version of Wordpress on localhost, you may want to do a find/replace on the WXR file for http://localhost and put in your domain.
 2. Log in to that site as an administrator.
 3. Go to Tools: Import in the WordPress admin panel.
-4. Install the "WordPress" importer from the list (Wordpress will attempt to download and install a plugin for this, it's okay).
+4. Install the "WordPress" importer from the list (WordPress will attempt to download and install a plugin for this, it's okay).
 5. Activate & Run Importer.
 6. Upload this file using the form provided on that page.
 7. You will first be asked to map the authors in this export file to users on the site. For each author, you may choose to map to an existing user on the site or to create a new user. By default, it should try to just map them to 'admin.'
