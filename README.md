@@ -1,4 +1,4 @@
-# Wordpress Content Framework
+# WordPress Content Framework
 
 The WPCF is a WordPress generated WXR (WordPress eXtended RSS) file generated with a complete set of sandbox data that you can use for theme, plugin, CSS, or other development that requires you to have a broad set of sample data to work from. This particular file contains information about a site's posts, pages, comments, categories, menus, and other content.
 
