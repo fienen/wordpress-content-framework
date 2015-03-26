@@ -8,7 +8,7 @@ WPCF 2.2 was generated for WordPress 3.9.1. It may work with older or newer vers
 ## Installation
 To import this information into a WordPress site follow these steps:
 
-![Import tool in the WordPress back end](http://i60.tinypic.com/2pqp62w.png "Import tool in the WordPress back end")
+![Import tool in the WordPress back end](http://i62.tinypic.com/32zuo9g.jpg "Import tool in the WordPress back end")
 
 1. If you aren't running your version of Wordpress on localhost, you may want to do a find/replace on the WXR file for http://localhost and put in your domain.
 2. Log in to that site as an administrator.
