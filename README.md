@@ -3,7 +3,10 @@
 The WPCF is a WordPress generated WXR (WordPress eXtended RSS) file generated with a complete set of sandbox data that you can use for theme, plugin, CSS, or other development that requires you to have a broad set of sample data to work from. This particular file contains information about a site's posts, pages, comments, categories, menus, and other content.
 
 ## Compatibility
-WPCF 2.4 was generated for WordPress 4.1.1. It may work with older or newer versions of WordPress as well.
+WPCF 2.4 was generated for WordPress 4.1.1. It may work with older or newer versions of WordPress as well. In general, the standard Wordpress uses for its WXR file is consistent enough that it's not extremely version specific. Unsupported data will usually just be ignored in older versions.
+
+### Master vs. Tags
+You can always [download the latest tagged release](https://github.com/thequicksilver/wordpress-content-framework/releases) on our GitHub page. However, you should normally be able to download the latest copy of the [Master branch](https://github.com/thequicksilver/wordpress-content-framework/tree/master) and still have no issues. Commits pulled into Master before a release should be stable enough for general use. More likely than not, commits pulled into Master before a tag will usually just have to do with typos and simple things like that. The [Development branch](https://github.com/thequicksilver/wordpress-content-framework/tree/development), on the other hand, is never guaranteed to be stable, but hey, feel free to live dangerously if you like.
 
 ## Installation
 To import this information into a WordPress site follow these steps:
