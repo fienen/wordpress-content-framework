@@ -3,7 +3,7 @@
 The WPCF is a WordPress generated WXR (WordPress eXtended RSS) file generated with a complete set of sandbox data that you can use for theme, plugin, CSS, or other development that requires you to have a broad set of sample data to work from. This particular file contains information about a site's posts, pages, comments, categories, menus, and other content.
 
 ## Compatibility
-WPCF 2.2 was generated for WordPress 4.1.1. It may work with older or newer versions of WordPress as well.
+WPCF 2.4 was generated for WordPress 4.1.1. It may work with older or newer versions of WordPress as well.
 
 ## Installation
 To import this information into a WordPress site follow these steps:
