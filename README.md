@@ -25,15 +25,15 @@ To import this information into a WordPress site follow these steps:
 ## Frequently Asked Questions
 <dl>
   <dt>What is a WXR File?</dt>
-  <dd></dd>
+  <dd>Allow me to <a href="http://devtidbits.com/2011/03/16/the-wordpress-extended-rss-wxr-exportimport-xml-document-format-decoded-and-explained/">borrow a pretty simply definition</a>: "The WXR format is based on the Really Simple Syndication or RSS specification which is a very popular dialect of XML." Basically, it's an XML file very similar to an RSS feed you might get from any normal site to read its content elsewhere, which WordPress has extended with some of its own data to represent the content of a WordPress site.</dd>
   <dt>Why not provide a SQL file?</dt>
-  <dd></dd>
+  <dd>I have considered this, and may do it (for reasons outlined below regarding limitations of WXR files). For the moment, I haven't done it mainly because of the additional dependencies and questions the SQL creates. Do I provide a full site dump? Then what if they don't have the default theme available? Do I only provide certain tables instead? How can I be sure I don't corrupt existing work in their site? I think eventually that will be a goal, but for the moment, this approach is working well enough.</dd>
   <dt>Do I need a plugin to use WPCF?</dt>
-  <dd></dd>
+  <dd>Technically, yes. As mentioned in the installation instructions above, when you click on the "Import" option from the menu, WordPress will prompt you to install a plugin to import the data. This used to be first party functionality included by default in WordPress, but they moved it out into a plugin, I assume to lighten the package size of WordPress. This plugin is maintained by WordPress, however.</dd>
   <dt>Why are there broken links all over the site after importing?</dt>
-  <dd></dd>
+  <dd>Make sure you do a find and replace in the XML file for http://localhost, and put in your site's domain. I left all pointers relatively generic for the folks working on a local machine, but if you're testing on an actual site or subdomain, you should make sure that's what's referenced in the code. If you can't handle doing a find/replace, then you probably shouldn't be doing whatever you're trying to do.</dd>
   <dt>What isn't supported by the WXR file?</dt>
-  <dd></dd>
+  <dd>Well, obviously, no static media is included - images and such. All of the images you see are hotlinked from a placeholder image site. Also, and maybe most frustrating, is that so far they also don't represent menus in the WXR schema. So I can't give you example menus to test either, you'll have to make those on your own in your theme you're using.</dd>
 </dl>
 
 ## Special Thanks
